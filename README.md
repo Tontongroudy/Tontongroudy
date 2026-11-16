@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="banner.svg" alt="Rudy Atallah — Cybersécurité & Ethical Hacking" width="100%">
+  <img src="banner.svg" alt="Tontongroudy — Cybersécurité & Ethical Hacking" width="100%">
 </p>
 
-### 👋 Salut, moi c'est Rudy
+### 👋 Salut, moi c'est Tontongroudy
 
 Étudiant en **cybersécurité à l'EFREI Bordeaux** (Bachelor Cybersécurité & Ethical Hacking, titre RNCP *Administrateur Systèmes, Réseaux et Cybersécurité*). Je m'intéresse surtout à la sécurité réseau, au scan de vulnérabilités et à l'automatisation d'audits.
 
